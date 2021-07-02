@@ -1,0 +1,15 @@
+Major Bleeding
+Major Bleeding,Bleeding related to CABG
+Major Bleeding,Bleeding related to PCI
+Major Bleeding,TIMI severe bleeding
+Major Bleeding,TIMI severe bleeding,Bleeding related to CABG
+Major Bleeding,TIMI severe bleeding,Bleeding related to PCI
+Minor Bleeding
+Minor Bleeding,Bleeding related to CABG
+Minor Bleeding,Bleeding related to PCI
+Minor Bleeding,TIMI severe bleeding
+Minor Bleeding,TIMI severe bleeding,Bleeding related to PCI
+Other Bleeding
+Other Bleeding,Bleeding related to CABG
+Other Bleeding,Bleeding related to PCI
+Other Bleeding,TIMI severe bleeding,Bleeding related to PCI

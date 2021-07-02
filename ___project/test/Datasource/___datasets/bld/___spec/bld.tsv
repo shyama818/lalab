@@ -1,0 +1,47 @@
+STUDYID		integer			1	AR1103420	0	2107
+CENTREID		integer			0	NA	0	2107
+USUBJID		integer			1919	AR110342000111; AR110342000119; AR11034200017; AR11034200018; AR11034200021; AR110342000210; AR110342000216; AR110342000217; AR110342000221; AR110342000230; AR11034200025; AR11034200065;  ...	0	2107
+SUBJID		integer			0	NA	0	2107
+AGE		double			0	NA	0	2107
+SEX		integer			2	Female; Male	0	2107
+ETHNICD		integer			0	NA	1	2106
+ETHNIC		integer			12	Arab; Black African; Chinese; Coloured African; European; Japanese; Malays; Native Latin; Other; Other Asian; South Asian; unknown	0	2107
+RANDDT		integer			0	NA	0	2107
+TRTCD		integer			0	NA	0	2107
+TRTGRP		integer			2	Enoxaparin; Fondaparinux	0	2107
+ATRTCD		integer			0	NA	2	2105
+ATRTGRP		integer			3	; Enoxaparin; Fondaparinux	0	2107
+CRCL		double			0	NA	4	2103
+BLDSTDT		integer			0	NA	1	2106
+BLDSRTM		integer			0	NA	138	1969
+BLDSTDM		integer			0	NA	138	1969
+BLDURDHM		integer			880	; 000:-1:-5; 000:-1:**; 000:-1:00; 000:-4:**; 000:-5:**; 000:**:00; 000:00:**; 000:00:00; 000:00:01; 000:00:02; 000:00:04;  ...	0	2107
+BLDENDT		integer			0	NA	19	2088
+BLDENTM		integer			0	NA	255	1852
+BLDENDM		integer			0	NA	255	1852
+BLDSTDY		integer			0	NA	1	2106
+BLDSITE		integer			298	; Epistaxis; Gastrointestinal; Hematuria; Hematuria,(ONR = 6.1, VITAMIN K ONLY; Hematuria,SHEATH REMOVAL SITE OOZING; Hemoptysis; Intracranial; Intraocular; Other; Other,18 HRS AFTER CABG BLEEDING WITH CARDIAC TAMPONADE; Other,ABDOMINAL;  ...	0	2107
+BLDFATAL		integer			0	NA	0	2107
+BLDASSOC		integer			282	; ?Anticoagulants ?Antiplatelets; 20 Mm After Ijection Of Study Treatment: Endoparin+Fondapari; Abrasion Of Chest During Shaving; Accidental Fall; Accidental Fall Pre Acs; Acute Renal Failure; Adenocarcinoma; After Catheter To Monitor Urine Flow; After Nasal Catheter Insertion; After Pacemaker Implantation; Afterblafter Bladder Catheterization Bladder Catheterization;  ...	0	2107
+BLDTRF		integer			0	NA	0	2107
+BLDHEMDR		double			0	NA	7	2100
+BLDMED24		integer			17	; GPIIb/IIIa antagonists; GPIIb/IIIa antagonists, Non-study LMWH; GPIIb/IIIa antagonists, Oral anticoagulants; GPIIb/IIIa antagonists, Oral anticoagulants, Non-study LMWH; GPIIb/IIIa antagonists,Unfractionated Heparin; GPIIb/IIIa antagonists,Unfractionated Heparin, Non-study LMWH; GPIIb/IIIa antagonists,Unfractionated Heparin, Oral anticoagulants; Non-study LMWH; Oral anticoagulants; Oral anticoagulants, Non-study LMWH; Other;  ...	0	2107
+BLDMED5		integer			4	; ASA; ASA,Clopidogrel; Clopidogrel	0	2107
+BLDSAE		integer			2	No; Yes	0	2107
+BLDOTR		integer			18	; Cryopredipitate; FFP; FFP, Platelets; FFP, Platelets, Cryopredipitate; FFP, RecombinantfactorVII; Platelets; Platelets, Cryopredipitate; Platelets, RecombinantfactorVII; Protamine; Protamine, Cryopredipitate; Protamine, FFP;  ...	0	2107
+BLDTHRPY		integer			2	No; Yes	0	2107
+BLDETAIL		integer			37	; Blood transfusion; Drop in hemoglobin; Drop in hemoglobin,Blood transfusion; Interruption of study drug >=24 hours; Interruption of study drug >=24 hours,Blood transfusion; Interruption of study drug >=24 hours,Drop in hemoglobin; Interruption of study drug >=24 hours,Drop in hemoglobin,Blood transfusion; Intraocular bleeding leading to significant vision loss; Intraocular bleeding leading to significant vision loss,Drop in hemoglobin; Retroperitoneal hemorrhage; Retroperitoneal hemorrhage,Blood transfusion;  ...	0	2107
+BLDINTO		integer			0	NA	0	2107
+BLDICRAN		integer			0	NA	0	2107
+BLDRET		integer			0	NA	0	2107
+BLDSURG		integer			0	NA	0	2107
+BLDHEMTR		integer			2	No; Yes	0	2107
+BLDTRANS		integer			0	NA	0	2107
+BLDMAJOR		integer			0	NA	0	2107
+BLDMINOR		integer			0	NA	0	2107
+BLDOTHER		integer			0	NA	0	2107
+BLDTIMI		integer			0	NA	0	2107
+BLDCABG		integer			0	NA	0	2107
+BLDPCI		integer			0	NA	0	2107
+BLDCLASS		integer			15	Major Bleeding; Major Bleeding,Bleeding related to CABG; Major Bleeding,Bleeding related to PCI; Major Bleeding,TIMI severe bleeding; Major Bleeding,TIMI severe bleeding,Bleeding related to CABG; Major Bleeding,TIMI severe bleeding,Bleeding related to PCI; Minor Bleeding; Minor Bleeding,Bleeding related to CABG; Minor Bleeding,Bleeding related to PCI; Minor Bleeding,TIMI severe bleeding; Minor Bleeding,TIMI severe bleeding,Bleeding related to PCI; Other Bleeding;  ...	0	2107
+BLDANY		integer			0	NA	0	2107

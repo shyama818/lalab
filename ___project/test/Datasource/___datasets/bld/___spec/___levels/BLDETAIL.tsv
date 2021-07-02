@@ -1,0 +1,37 @@
+
+Blood transfusion
+Drop in hemoglobin
+Drop in hemoglobin,Blood transfusion
+Interruption of study drug >=24 hours
+Interruption of study drug >=24 hours,Blood transfusion
+Interruption of study drug >=24 hours,Drop in hemoglobin
+Interruption of study drug >=24 hours,Drop in hemoglobin,Blood transfusion
+Intraocular bleeding leading to significant vision loss
+Intraocular bleeding leading to significant vision loss,Drop in hemoglobin
+Retroperitoneal hemorrhage
+Retroperitoneal hemorrhage,Blood transfusion
+Retroperitoneal hemorrhage,Drop in hemoglobin
+Retroperitoneal hemorrhage,Drop in hemoglobin,Blood transfusion
+Retroperitoneal hemorrhage,Interruption of study drug >=24 hours,Blood transfusion
+Retroperitoneal hemorrhage,Interruption of study drug >=24 hours,Drop in hemoglobin
+Retroperitoneal hemorrhage,Interruption of study drug >=24 hours,Drop in hemoglobin,Blood transfusi
+Retroperitoneal hemorrhage,Surgical Intervention
+Retroperitoneal hemorrhage,Surgical Intervention,Drop in hemoglobin,Blood transfusion
+Retroperitoneal hemorrhage,Surgical Intervention,Interruption of study drug >=24 hours,Drop in hemo
+Surgical Intervention
+Surgical Intervention,Blood transfusion
+Surgical Intervention,Drop in hemoglobin
+Surgical Intervention,Drop in hemoglobin,Blood transfusion
+Surgical Intervention,Interruption of study drug >=24 hours
+Surgical Intervention,Interruption of study drug >=24 hours,Blood transfusion
+Surgical Intervention,Interruption of study drug >=24 hours,Drop in hemoglobin
+Surgical Intervention,Interruption of study drug >=24 hours,Drop in hemoglobin,Blood transfusion
+Symptomatic intracranial hemorrhage
+Symptomatic intracranial hemorrhage,Drop in hemoglobin
+Symptomatic intracranial hemorrhage,Drop in hemoglobin,Blood transfusion
+Symptomatic intracranial hemorrhage,Interruption of study drug >=24 hours
+Symptomatic intracranial hemorrhage,Interruption of study drug >=24 hours,Blood transfusion
+Symptomatic intracranial hemorrhage,Interruption of study drug >=24 hours,Drop in hemoglobin
+Symptomatic intracranial hemorrhage,Surgical Intervention
+Symptomatic intracranial hemorrhage,Surgical Intervention,Interruption of study drug >=24 hours
+Symptomatic intracranial hemorrhage,Surgical Intervention,Interruption of study drug >=24 hours,Blo

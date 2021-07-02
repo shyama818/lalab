@@ -1,0 +1,30 @@
+STUDYID		integer			1	AR1103420	0	9230
+CENTREID		integer			0	NA	0	9230
+USUBJID		integer			7931	AR11034200011; AR110342000112; AR110342000113; AR110342000114; AR110342000117; AR110342000118; AR11034200012; AR11034200013; AR11034200015; AR11034200018; AR11034200019; AR11034200021;  ...	0	9230
+SUBJID		integer			0	NA	0	9230
+AGE		double			0	NA	0	9230
+SEX		integer			2	Female; Male	0	9230
+ETHNICD		integer			0	NA	1	9229
+ETHNIC		integer			12	Arab; Black African; Chinese; Coloured African; European; Japanese; Malays; Native Latin; Other; Other Asian; South Asian; unknown	0	9230
+RANDDT		integer			0	NA	0	9230
+TRTCD		integer			0	NA	0	9230
+TRTGRP		integer			2	Enoxaparin; Fondaparinux	0	9230
+ATRTCD		integer			0	NA	10	9220
+ATRTGRP		integer			3	; Enoxaparin; Fondaparinux	0	9230
+PCIDATE		integer			0	NA	1	9229
+PCISTTM		integer			0	NA	130	9100
+PCISTDM		integer			0	NA	130	9100
+PTMNUM		integer			0	NA	5420	3810
+PTM		integer			4	; AFTER PCI; BEFORE PCI; DURING PCI	0	9230
+TERMCD		integer			0	NA	5420	3810
+TERM		integer			4	; Bivalirudin; LMWH; Open Label UFH/ Non Study UFH	0	9230
+UFHDOSE		integer			0	NA	8048	1182
+PCIGP2BP		integer			0	NA	51	9179
+PCIGP2DT		integer			0	NA	6155	3075
+PCIGP2TM		integer			0	NA	6192	3038
+PCIGP2DM		integer			0	NA	6193	3037
+PGPTIME		integer			3	; Bailout; Upfront	0	9230
+PGPTYPE		integer			4	; Abciximab; Eptifibatide; Tirofiban	0	9230
+PCITHIEN		integer			0	NA	33	9197
+PCITHNST		integer			5	; Started < 24 hrs; Started > 72 hrs; Started 24-48 hrs; Started 49-72 hrs	0	9230
+PCIADANT		integer			0	NA	2804	6426

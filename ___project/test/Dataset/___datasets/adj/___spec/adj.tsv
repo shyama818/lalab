@@ -1,0 +1,27 @@
+STUDYID		integer			1	AR1103420	0	4502
+CENTREID		integer			0	NA	0	4502
+USUBJID		integer			3404	AR110342000111; AR110342000119; AR11034200017; AR11034200018; AR11034200021; AR110342000210; AR110342000213; AR110342000216; AR110342000217; AR110342000221; AR110342000230; AR11034200025;  ...	0	4502
+SUBJID		integer			0	NA	0	4502
+AGE		double			0	NA	0	4502
+SEX		integer			2	Female; Male	0	4502
+ETHNICD		integer			0	NA	0	4502
+ETHNIC		integer			11	Arab; Black African; Chinese; Coloured African; European; Japanese; Malays; Native Latin; Other; Other Asian; South Asian	0	4502
+TRTCD		integer			0	NA	0	4502
+TRTGRP		integer			2	Enoxaparin; Fondaparinux	0	4502
+ATRTCD		integer			0	NA	7	4495
+ATRTGRP		integer			3	; Enoxaparin; Fondaparinux	0	4502
+RANDDT		integer			0	NA	0	4502
+RANDDM		integer			0	NA	0	4502
+ADDT		integer			0	NA	0	4502
+ADDT_		integer			751	01APR2004; 01APR2005; 01AUG2003; 01AUG2004; 01DEC2003; 01DEC2004; 01FEB2004; 01FEB2005; 01JAN2004; 01JAN2005; 01JUL2003; 01JUL2004;  ...	0	4502
+ADTM		integer			0	NA	150	4352
+ADTM_		integer			676	; 0:00; 0:01; 0:02; 0:03; 0:04; 0:05; 0:06; 0:10; 0:15; 0:19; 0:20;  ...	0	4502
+ADEVDM		integer			0	NA	150	4352
+ADEVDY		integer			0	NA	0	4502
+ADTHRPY		integer			2	No; Yes	0	4502
+ADEVTPCD		integer			0	NA	25	4477
+ADEVTYP		integer			15	Cardiovascular Death; Death; Major Bleed; Major Bleeding; MI; New MI; Non Cardiovascular Death; Refractory Ischemia; Refractory Ischemia (Rehospitalization); Refractory Ischemia(Init hosp); Refractory Ischemia(Rehosp); Stroke;  ...	0	4502
+ADEVCD		double			0	NA	25	4477
+ADEV		integer			20	; Death - Cardiovascular; Death - Non-Cardiovascular; Major Bleeding; Minor Bleeding; Myocardial Infarction; Myocardial Infarction > 24 hours and within 7 days of randomization (Associated MI at baseline); Myocardial Infarction > 7 days of randomization; Myocardial Infarction within 48 hours post CABG; Myocardial Infarction within 48 hours post PCI; Myocardial Infarction within 7 days of randomization (No associated MI at baseline); New Myocardial Infarction within 24 hours of randomization (Associated MI at baseline);  ...	0	4502
+ADDECCD		integer			0	NA	25	4477
+ADDEC		integer			3	; Agree; Disagree	0	4502
