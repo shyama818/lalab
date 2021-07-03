@@ -4,9 +4,9 @@ USUBJID		integer			20078	AR11034200011; AR110342000110; AR110342000111; AR110342
 SUBJID		integer			0	NA	0	20078
 AGE		double			0	NA	0	20078
 AGECATCD		integer			0	NA	0	20078
-AGECAT		integer			4	< 60yrs; =>75yrs; >=60-<65yrs; >=65-<75yrs	0	20078
+AGECAT		integer			4	< 60yrs; >=60-<65yrs; >=65-<75yrs; =>75yrs	0	20078
 SEXCD		integer			0	NA	6	20072
-SEX		integer			3	; Female; Male	0	20078
+SEX		integer			2	Female; Male	6	20072
 ETHNICD		integer			0	NA	7	20071
 ETHNIC		integer			12	Arab; Black African; Chinese; Coloured African; European; Japanese; Malays; Native Latin; Other; Other Asian; South Asian; unknown	0	20078
 TRTCD		integer			0	NA	0	20078
